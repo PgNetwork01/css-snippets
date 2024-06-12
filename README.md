@@ -10,3 +10,12 @@ This repository contains a collection of small yet useful CSS snippets that can 
 4. [Custom Checkbox and Radio Buttons](#custom-checkbox-and-radio-buttons)
 5. [Smooth Scroll Behavior](#smooth-scroll-behavior)
 6. [Responsive Card Layout](#responsive-card-layout)
+
+<hr>
+
+- **Contact**:
+    
+    ![Telegram](https://img.shields.io/badge/TELEGRAM-blue?style=flat-square&logo=Telegram&width=1000px) 
+    [![Discord](https://img.shields.io/badge/DISCORD-000?style=flat-square&logo=Discord)](https://discord.gg/PgMaf9AM2W)
+
+<hr>
